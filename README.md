@@ -19,3 +19,6 @@ Provide healthcare providers with timely access to relevant patient health infor
 Identify patterns and trends in patient health data to proactively manage chronic conditions, prevent adverse events, and improve patient outcomes.
 Enhance communication and collaboration among multidisciplinary care teams by facilitating data sharing and knowledge exchange.
 Improve patient satisfaction and engagement by involving patients in their care plans and treatment decisions based on a thorough understanding of their health history.
+
+### BACKGROUND : ![dark-gradient](https://github.com/Shradhatakawane/PATIENT-HISTORY-DASHBOARD/assets/154678733/60f8c801-dd1d-4d87-a269-7d5edce37200)
+
